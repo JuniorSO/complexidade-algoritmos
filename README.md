@@ -1,5 +1,5 @@
 # Atenção
-Dentro dos dois arquivos existe uma variável chamada 'quantity', ela define qual a quantidade de potencias de 2 que serão criadas dentro das listas. Sempre verificar o valor da variável para evitar problemas de memória em computadores com menos RAM, recomendo reduzir pelo menos pela metade os valores já inseridos.
+Dentro dos dois arquivos .py existe uma variável chamada 'quantity', ela define qual a quantidade de potências de 2 que serão criadas dentro das listas. Sempre verificar o valor da variável para evitar problemas de memória em computadores com menos RAM, recomendo reduzir pelo menos pela metade os valores já inseridos.
 
 # Download e Instalação
 Certifique-se de utilizar a versão 3.13 do Python. Após isso, execute os seguintes comandos no terminal:

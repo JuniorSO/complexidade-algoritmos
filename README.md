@@ -6,7 +6,7 @@ Certifique-se de utilizar a versão 3.13 do Python. Após isso, execute os segui
 ```
 git clone https://github.com/JuniorSO/complexidade-algoritmos
 
-cd .\complexidade-algoritmos\
+cd complexidade-algoritmos
 
 python -m venv env
 ```
